@@ -34,4 +34,9 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <catalogs>Catalog.Номенклатура</catalogs>
+  <catalogs>Catalog.Контрагент</catalogs>
+  <documents>Document.СчетКлиента</documents>
+  <documents>Document.ПоступлениеТовара</documents>
+  <accumulationRegisters>AccumulationRegister.ОстаткиТовара</accumulationRegisters>
 </mdclass:Configuration>
