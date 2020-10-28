@@ -36,6 +36,7 @@
   </languages>
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.Контрагент</catalogs>
+  <catalogs>Catalog.Организация</catalogs>
   <documents>Document.СчетКлиента</documents>
   <documents>Document.ПоступлениеТовара</documents>
   <accumulationRegisters>AccumulationRegister.ОстаткиТовара</accumulationRegisters>
